@@ -53,7 +53,7 @@
 			"tag": [],
 			"id": "mortgage",
 			"video": "/demos/mortgage/video.mp4",
-			"url": "/demos/mortgage",
+			"url": "/demos/",
 			"description": "Showcases a more spreadsheet-like Mavo application.",
 			"featured": false
 		},
@@ -62,7 +62,7 @@
 			"tag": [],
 			"id": "color-picker",
 			"video": "/demos/color-picker/video.mp4",
-			"url": "/demos/color-picker",
+			"url": "/demos/",
 			"description": "An HSLA color picker. Showcases how responsive Mavo expressions are, as well as properties that depend on other properties.",
 			"featured": false
 		},
@@ -73,7 +73,7 @@
 			],
 			"id": "decisions",
 			"video": "/demos/decisions/video.mp4",
-			"url": "/demos/decisions",
+			"url": "/demos/",
 			"description": "An app to list pros and cons (with weights!) to help you make a decision.",
 			"featured": false
 		},
@@ -84,7 +84,7 @@
 			],
 			"id": "foodie",
 			"video": "/demos/foodie/video.mp4",
-			"url": "/demos/foodie",
+			"url": "/demos/",
 			"description": "Showcases hierarchy (3 levels of nested collections) and how scoping works with it in expressions.",
 			"featured": false
 		},
@@ -95,7 +95,7 @@
 			],
 			"id": "logo",
 			"video": "/demos/logo/video.mp4",
-			"url": "/demos/logo",
+			"url": "/demos/",
 			"description": "Showcases how well Mavo works with SVG.",
 			"featured": false
 		},
@@ -132,7 +132,7 @@
 			],
 			"id": "svgpath",
 			"video": "/demos/svgpath/video.mp4",
-			"url": "/demos/svgpath",
+			"url": "/demos/",
 			"description": "One of the most complex demos, showcases `mv-if` for conditionals, dynamic default values, custom UI, Mavo expressions in SVG",
 			"featured": false
 		},
@@ -143,7 +143,7 @@
 			],
 			"id": "contacts",
 			"video": "/demos/contacts/video.mp4",
-			"url": "/demos/contacts",
+			"url": "/demos/",
 			"description": "A replica of a contact list app, with multiple emails and phone numbers per person.",
 			"featured": false
 		},
@@ -154,7 +154,7 @@
 			],
 			"id": "shopping",
 			"video": "/demos/shopping/video.mp4",
-			"url": "/demos/shopping",
+			"url": "/demos/",
 			"description": "Showcases [custom data actions](/docs/actions) for copying items across lists, even if the lists don't have exactly the same structure.",
 			"featured": false
 		},
@@ -165,7 +165,7 @@
 			],
 			"id": "dice",
 			"video": "/demos/dice/video.mp4",
-			"url": "/demos/dice",
+			"url": "/demos/",
 			"description": "Showcases [custom data actions](/docs/actions), including multiple data actions on the same control.",
 			"featured": false
 		},
@@ -176,7 +176,7 @@
 			],
 			"id": "words",
 			"video": "/demos/words/video.mp4",
-			"url": "/demos/words",
+			"url": "/demos/",
 			"description": "A language learning game for two people, where one enters the phrase and the other tries to click on words to put them in the right order. Showcases [custom data actions](/docs/actions)",
 			"featured": false
 		},
